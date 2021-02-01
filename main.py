@@ -1,4 +1,4 @@
 import os
 print(os.getcwd())
-os.chdir('The_Python_Workshop')
+os.chdir('Lessons')
 print(os.getcwd())

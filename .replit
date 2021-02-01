@@ -1,0 +1,3 @@
+language = "python3"
+run = "python -i Lessons/Section_01/Activity_1.py"
+#run = "python -i Lessons/Section_01/Activity_2.py"
