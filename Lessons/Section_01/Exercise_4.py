@@ -1,34 +1,34 @@
 # display the current list of python keywords
 import keyword
+print('>>> import keyword')
 print(keyword.kwlist)
 print()
 
 # bad variable name
 print('1st_number = 1')
-print('What is the problem with the variable name above? Press enter to continue.')
-enter = input()
-print('Python variable names cannot start with a number')
+enter = input('What is the problem with the variable name above? Press enter to continue.' )
+print('Python variable names cannot start with a number.')
+print()
 
 # good variable name
 print('first_number = 1')
-print('What is the problem with the variable name above? Press enter to continue.')
-enter = input()
-print('All alpha characters are allowed')
+enter = input('What is the problem with the variable name above? Press enter to continue. ')
+print('Nothing. All alpha characters are allowed')
+print()
 
 # bad variable name
 print('my_$ = 1000.00')
-print('What is the problem with the variable name above? Press enter to continue.')
-enter = input()
+enter = input('What is the problem with the variable name above? Press enter to continue. ')
 print('$ is not a special character allowed in Python variable names')
+print()
 
 # good variable name
 print('my_money = 1000.00')
-print('What is the problem with the variable name above? Press enter to continue.')
-enter = input()
-print("_ is a valid character for Python variable")
+enter = input('What is the problem with the variable name above? Press enter to continue. ')
+print("Nothing. _ is a valid character for Python variable.")
+print()
 
 # good variable name
 print('_test = "value"')
-print('What is the problem with the variable name above? Press enter to continue.')
-enter = input()
-print("_ is a valid character for Python variable and you can start a variable name using it")
+enter = input('What is the problem with the variable name above? Press enter to continue. ')
+print("Nothing. _ is a valid character for Python variable and you can start a variable name using it")
