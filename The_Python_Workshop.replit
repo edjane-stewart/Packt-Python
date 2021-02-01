@@ -1,2 +1,2 @@
 language = "python3"
-run = "python"
+run = "cd The_Python_Workshop\Section_01"
