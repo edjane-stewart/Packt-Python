@@ -1,4 +1,6 @@
 language = "python3"
+
+# SECTION 1
 #run = "python -i Lessons/Section_01/Activity_1.py"
 #run = "python -i Lessons/Section_01/Activity_2.py"
 #run = "python -i Lessons/Section_01/Exercise_01.py"
@@ -22,4 +24,8 @@ language = "python3"
 #run = "python -i Lessons/Section_01/Exercise_17.py"
 #run = "python -i Lessons/Section_01/Activity_4.py"
 #run = "python -i Lessons/Section_01/Exercise_18.py"
-run = "python -i Lessons/Section_01/Exercise_19.py"
+#run = "python -i Lessons/Section_01/Exercise_19.py"
+#run = "python -i Lessons/Section_01/Exercise_20.py"
+#run = "python -i Lessons/Section_01/Activity_5.py"
+
+# SECTION 2

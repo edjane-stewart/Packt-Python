@@ -16,5 +16,3 @@ while offer <= best:
     break
   print('We\'re sorry, you\'re offer of', offer, 'has not been accepted.')
   offer += increment
-  
-
