@@ -29,3 +29,21 @@ language = "python3"
 #run = "python -i Lessons/Section_01/Activity_5.py"
 
 # SECTION 2
+#run = "python -i Lessons/Section_02/Exercise_21.py"
+#run = "python -i Lessons/Section_02/Exercise_22.py"
+#run = "python -i Lessons/Section_02/Activity_6.py"
+#run = "python -i Lessons/Section_02/Exercise_23.py"
+#run = "python -i Lessons/Section_02/Exercise_24.py"
+#run = "python -i Lessons/Section_02/Exercise_25.py"
+#run = "python -i Lessons/Section_02/Exercise_26.py"
+#run = "python -i Lessons/Section_02/Exercise_27.py"
+#run = "python -i Lessons/Section_02/Exercise_28.py"
+#run = "python -i Lessons/Section_02/Activity_7.py"
+#run = "python -i Lessons/Section_02/Exercise_29.py"
+#run = "python -i Lessons/Section_02/Exercise_30.py"
+#run = "python -i Lessons/Section_02/Exercise_31.py"
+#run = "python -i Lessons/Section_02/Exercise_32.py"
+#run = "python -i Lessons/Section_02/Exercise_33.py"
+
+# SECTION 3
+run = "python -i Lessons/Section_03/Exercise_34.py"
